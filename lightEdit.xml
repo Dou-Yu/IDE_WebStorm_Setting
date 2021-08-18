@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///usr/local/lib/node_modules/npm/package.json" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="260" y="45" width="1400" height="953" />
+    </option>
+  </component>
+</application>
